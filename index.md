@@ -1,5 +1,3 @@
-# 문법총람강독회
-
 <p align="center">
   <img src="assets/img/logo-300ppi.png" width='400px'>
 </p>
@@ -24,7 +22,7 @@
     *   LaTeX으로 편집 (텍 편집 교육 및 템플릿 제작: 김민규, 2월 한, 온라인)
 
 3기 발제 편성은 다음 링크에서 확인할 수 있습니다. 
-https://goo.gl/VAoJRb
+[https://goo.gl/VAoJRb](https://goo.gl/VAoJRb)
 
 ## 과거 발제 언어 목록
 *Under Construction*
@@ -42,10 +40,10 @@ https://goo.gl/VAoJRb
 
 ## Links
 
-공유 링크: https://goo.gl/3izhGP
+공유 링크: [https://goo.gl/3izhGP](https://goo.gl/3izhGP)
 
 ## Contact 
 
-regrregr@googlegroups.com
+[regrregr@googlegroups.com](mailto:regrregr@googlegroups.com)
 
-GitHub manager: https://minkyu.kim/contact/
+GitHub manager: [https://minkyu.kim/contact/](https://minkyu.kim/contact/)
